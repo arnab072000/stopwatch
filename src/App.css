@@ -1,11 +1,12 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
   border: 1px;
   border-color: #282c34;
+  margin-left: 5px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .button {
@@ -16,7 +17,7 @@
 button {
  height: 25px;
  width: 60px;
- margin-left: 5px;
+ /* margin-left: 5px; */
 }
 
 /* .App-logo {
